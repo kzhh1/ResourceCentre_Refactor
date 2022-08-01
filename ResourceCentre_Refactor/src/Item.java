@@ -3,7 +3,7 @@ public class Item {
 	private String assetTag;
 	private String description;
 	private String dueDate;
-	private boolean isAvailabl;
+	private boolean isAvailable;
 
 	public Item(String assetTag, String description) {
 		this.assetTag = assetTag;
